@@ -15,6 +15,8 @@ SNSで世界中と繋がれる時代にこれらの女性向けのサービス�
 ## Demo
 画面遷移図
 <img width="1208" alt="c41e7f00f1b0f7745e53d87846f009d0" src="https://user-images.githubusercontent.com/85107534/126289072-25c698b2-37ca-41f9-b151-908015f27877.png">
+トップページ（完成想定図）
+![](https://i.gyazo.com/77414f3d59c07eca78e2096ccc8c50e2.jpg)
 
 ## VS. 
 [RoomClip]
